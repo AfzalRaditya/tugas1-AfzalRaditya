@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | `APBD Pemda Indonesia (2011 - 2026)` |
+| Sumber | `https://huggingface.co/datasets/pohonmaple/apbd-pemda-indonesia` |
+| Lisensi/ketentuan pakai | `Open Data / Public Domain` |
+| Ukuran | `13.58 MB | 3.132.863 baris` |
+| Periode data | `2011 - 2026` |
+| Unit analisis | `Laporan Anggaran dan Realisasi APBD per Pos Akun Keuangan Pemda (Provinsi & Kabupaten/Kota) per Bulan/Tahun` |
 
 ## Tempat Mencari Dataset
 
